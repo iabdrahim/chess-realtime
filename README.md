@@ -4,8 +4,6 @@ A web app to let people play very easly by creating a room and waiting for a ran
 
 # Installation
 
----
-
 To get started with PenPoint, follow these steps:
 
 1. Clone the repository:
@@ -40,8 +38,6 @@ The application will be available at http://localhost:3000.
 
 # Usage
 
----
-
 users can:
 
 - create a public room to play with random players.
@@ -51,8 +47,6 @@ users can:
 - you can resume the match if you reload the page.
 
 # Technologies
-
----
 
 This project is built using the following technologies:
 

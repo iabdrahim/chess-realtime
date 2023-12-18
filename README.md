@@ -14,10 +14,15 @@ Install dependencies:
 
 If you prefer using Yarn:
 
+```
 yarn install
+```
+
 If you prefer using npm:
 
+```
 npm install
+```
 Note: If you choose npm, it will generate a package-lock.json file. You can safely delete the yarn.lock file if you decide to use npm as your package manager.
 
 2. Create environment variables:
@@ -29,11 +34,14 @@ Note: Remember not to include the .env file in version control, as it is already
 3. Run the development server:
 
 If you are using Yarn:
-
+```
 yarn dev
-If you are using npm:
+```
 
+If you are using npm:
+```
 npm run dev
+```
 
 The application will be available at http://localhost:3000.
 
@@ -51,9 +59,9 @@ users can:
 
 This project is built using the following technologies:
 
-Next.js
-TypeScript
-Firabase
+- Next.js
+- TypeScript
+- Firabase
 
 # Contributing
 

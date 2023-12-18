@@ -7,8 +7,9 @@ A web app to let people play very easly by creating a room and waiting for a ran
 To get started with PenPoint, follow these steps:
 
 1. Clone the repository:
-
-git clone git@github.com:MEZ901/PenPoint.git
+```
+git clone https://github.com/iabdrahim/realtime-chess.git
+```
 Install dependencies:
 
 If you prefer using Yarn:
@@ -50,7 +51,7 @@ users can:
 
 This project is built using the following technologies:
 
-Next.js(14)
+Next.js
 TypeScript
 Firabase
 
